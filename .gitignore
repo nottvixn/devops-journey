@@ -1,0 +1,12 @@
+# Go
+bin/
+build/
+dist/
+*.exe
+*.dll
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
